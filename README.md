@@ -1,0 +1,2 @@
+# gitigprueba
+copiar gitignore
